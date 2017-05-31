@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PahoClient</string>
+    <string name="title_activity_send_message">SendMessageActivity</string>
+</resources>
